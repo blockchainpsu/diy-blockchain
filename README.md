@@ -1,4 +1,4 @@
-![Blockchain Logo](horizontal-logo.png)
+![Blockchain Logo](/images/horizontal-logo.png)
 # DIY Blockchain App
 In this application you will gain an understanding of the technology that makes bitcoin and other cryptocurrencies so popular and secure.
 
