@@ -10,12 +10,14 @@ If you do not know what blockchain is, I recommend checking out the links in the
 * [Links](https://github.com/blockchainpsu/diy-blockchain#Links)
 * [Brief Explanation](https://github.com/blockchainpsu/diy-blockchain#Brief-Explanation)
 ### Overview
-This is an introductory blockchain application to teach you about blockchain, cryptocurrencies, and the other technologies behind the hype. You will use mathematical hash functions to create private and public keys for the transactions. You will also use the same hash functions to both verify and mine blocks. The hashing will lead to immutable blocks within the chain. At the end of the project you will have your very own fully functioning blockchain application
+This is an introductory blockchain application to teach you about blockchain, cryptocurrencies, and the other technologies behind the hype. You will use mathematical hash functions to create private and public keys for the transactions. You will also use the same hash functions to both verify and mine blocks. The hashing will lead to immutable blocks within the chain. At the end of the project you will have your very own fully functioning blockchain application!
 ### Setup
 To begin we must install everything necessary
 1. Download [Git](https://git-scm.com/downloads). This is a useful tool for version control and general programming. You can ensure that everything installed correctly by running `git --version` in the terminal. It would be useful to familiarize yourself within this environment.
 2. Download [Node.js](https://nodejs.org/en/download/). We will use npm to test our application. You can ensure that everything installed correctly by running `node -v` and `npm -v` in the terminal.
 3. Download an IDE that you like. We recommend [Visual Studio Code](https://code.visualstudio.com/download)
+4. Clone the repository (click the green code button and copy the link) then in your terminal execute the command `git clone (link)` you can paste the link in with control + v.
+5. Change directories into your newly cloned repo with `cd diy-blockchain` and then install the dependecies with `npm install`.
 
 **If you have any issue installing anything, google it. Google is a source of infinite knowledge.**
 ### Resources
