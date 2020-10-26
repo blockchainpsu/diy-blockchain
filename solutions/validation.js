@@ -80,11 +80,10 @@ const isValidChain = blockchain => {
 const breakChain = blockchain => {
   // Your code here
   const privKeySend = signing.createPrivateKey()
-  const pubKeySend = signing.getPublicKey(privKeySend)
   const privKeyRec = signing.createPrivateKey()
   const pubKeyRec = signing.getPublicKey(privKeyRec)
 
-  const breakTrans = new Transaction(privKeySend, pubKeyRec, 10000000)
+  const breakTrans = new Transaction(privKeySend, pubKeyRec, 1000000)
 
   blockchain.blocks[0].transactions.push(breakTrans)
 };
