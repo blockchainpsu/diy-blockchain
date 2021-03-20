@@ -39,3 +39,5 @@ A blockchain (for our use) will store the transactions between people. Each bloc
 If any of that sounded like nonsense, I recommend looking at the resources listed above. If you already checked them out, maybe watch them again, or do some reseach further on your own, again, Google is a source of infinite knowledge.
 
 Time to get into the project!
+
+Navigate to the [blockchain-app](https://github.com/blockchainpsu/diy-blockchain/tree/main/blockchain-app) folder above, or click the link to get into the project!
