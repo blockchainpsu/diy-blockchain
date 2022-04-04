@@ -1,6 +1,7 @@
 'use strict';
 
 const { createHash } = require('crypto');
+const { Transaction, Block, Blockchain } = require('./blockchain');
 const signing = require('./signing');
 
 /**
