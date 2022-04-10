@@ -17,7 +17,7 @@ To begin we must install everything necessary
 2. Download [Node.js](https://nodejs.org/en/download/). We will use npm to test our application. You can ensure that everything installed correctly by running `node -v` and `npm -v` in the terminal.
 3. Download an IDE that you like. We recommend [Visual Studio Code](https://code.visualstudio.com/download)
 4. Clone the repository (click the green code button and copy the link) then in your terminal execute the command `git clone (link)` you can paste the link in with control + v.
-5. Change directories into your newly cloned repo with `cd diy-blockchain` and then install the dependecies with `npm install`.
+5. Change directories into your newly cloned repo with `cd diy-blockchain\blockchain-app` and then install the dependecies with `npm install`.
 
 **If you have any issue installing anything, google it. Google is a source of infinite knowledge.**
 ### Resources
