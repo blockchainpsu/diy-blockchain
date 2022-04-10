@@ -30,7 +30,7 @@ These will be useful to understand the theory behind what you will be doing in t
 ### Links
 * [Email](mailto:blockchain.psu@gmail.com)
 * [Slack](https://blockchainpsu.slack.com/signup#/)
-* [Website](https://www.blockchainpsu.com/)
+* Currently updating website
 ### Brief Explanation
 Blockchain on the most basic level is a way to store information. It is similar to a linked list in the sense that they both store information and the blocks point to each other.
 
